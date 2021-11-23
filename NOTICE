@@ -1,0 +1,28 @@
+NOTICE — Attribution and Provenance
+===================================
+
+This repository ("commerce12") is an archived clone of the open-source project
+Next.js Commerce, maintained by Vercel, Inc.
+
+  Upstream project : Next.js Commerce
+  Canonical source : https://github.com/vercel/commerce
+  Copyright        : Copyright (c) 2023 Vercel, Inc.
+  License          : MIT License (see license.md)
+
+All source code and the complete commit history contained in this repository
+are the work of the upstream Next.js Commerce contributors. The owner of this
+repository is NOT the author of this code and makes no claim of authorship over
+it. This copy exists solely as an archival reference and has not been rebranded
+or represented as original work.
+
+The MIT License under which Next.js Commerce is distributed permits use, copying,
+modification, and redistribution provided the original copyright notice and
+license text are retained. Both are retained here (see license.md). The only
+material added by this archive are provenance/attribution documents:
+
+  - README.md            (archival provenance notice)
+  - NOTICE               (this file)
+  - UPSTREAM_README.md   (the upstream project's original README, preserved verbatim)
+
+For the actively maintained project, its issue tracker, and official releases,
+please refer to the canonical upstream repository listed above.
